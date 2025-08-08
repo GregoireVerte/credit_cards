@@ -1,2 +1,4 @@
 mlruns/
 /evaluator.joblib
+catboost_info/
+/evaluator_no_boundary.joblib
